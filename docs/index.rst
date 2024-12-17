@@ -7,10 +7,10 @@
    :trim:
 
 
-Welcome to BusKill's documentation!
+Welcome to DRP 's documentation!
 ===================================
 
-Welcome! BusKill's documentation is split into 4 main parts:
+Welcome! Daniel's documentation is split into 4 main parts:
 
 - :ref:`hardware_usr`
 - :ref:`software_usr`
