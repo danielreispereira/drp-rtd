@@ -1,6 +1,6 @@
 ![build](https://github.com/BusKill/buskill-app/workflows/build/badge.svg?branch=master)
 
-# BusKill App
+# BusKill App DRP
 
 This is the codebase for our cross-platform (CLI and) GUI app for [BusKill](https://www.buskill.in). It works in Linux, Windows, and MacOS.
 
